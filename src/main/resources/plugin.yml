@@ -1,0 +1,6 @@
+name: Bedwars
+version: ${project.version}
+main: me.joeseph.bedwars.Bedwars
+commands:
+  generator:
+  startgame:
